@@ -13,7 +13,7 @@ $(document).ready(function() {
 
     let sefHTML = `
         <div class='my-3 eng-sefs'>
-            <a href='https://monash.az1.qualtrics.com/jfe/form/SV_9TZuRCZ8682e5ds' title='Engineering Student Experience Feedback Survey (SEFS)'>
+            <a href='https://monash.syd1.qualtrics.com/jfe/form/SV_cROlli6qF2gUjcy' title='Engineering Student Experience Feedback Survey (SEFS)'>
                 <img src='https://enigmathic.github.io/moodle-sandbox/SEFS-S1-2026-Header-Purple.jpg' alt='Student Experience Feedback Survey (SEFS). The mid-semester feedback forum for your engineering units. Closes 29 March.' width="100%"/>
                 <img src='https://enigmathic.github.io/moodle-sandbox/SEFS-S1-2026-Footer-Purple.jpg' alt='Click here to complete the Engineering Student Experience Feedback Survey (SEFS) for a chance to win one of 5 100 dollar vourchers' width="100%"/>
             </a>
