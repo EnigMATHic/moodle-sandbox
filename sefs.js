@@ -21,3 +21,4 @@ $(document).ready(function() {
     `;
     $(sefHTML).insertAfter("div.course-content > ul#mst-navigation");
 });
+
